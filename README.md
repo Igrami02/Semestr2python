@@ -14,7 +14,7 @@
   
   ### ✔ [ООП](https://colab.research.google.com/drive/1R_Um3CBWWaGPtNSjO15lXCPr-TCgQcKy#scrollTo=_)
 
-  ## ✔ [проверка пороля](https://colab.research.google.com/drive/1R_Um3CBWWaGPtNSjO15lXCPr-TCgQcKy#scrollTo=_)
+  ## ✔ [проверка пароля](https://colab.research.google.com/drive/1R_Um3CBWWaGPtNSjO15lXCPr-TCgQcKy#scrollTo=_)
 
   ### ✔ [Шаблонные методы класса](https://colab.research.google.com/drive/1R_Um3CBWWaGPtNSjO15lXCPr-TCgQcKy#scrollTo=_)
 
