@@ -22,5 +22,5 @@
 
   ### ✔ [Загрузка файлов](https://colab.research.google.com/drive/1R_Um3CBWWaGPtNSjO15lXCPr-TCgQcKy#scrollTo=_)
 
-
-   
+    
+  ### ✔ [Шифрование предложения](https://docs.google.com/document/d/1jwPRH5WwYC-Ku00ZFDsd6OFMMCmgiNcHfymXdsfpkmQ/edit?usp=sharing)
