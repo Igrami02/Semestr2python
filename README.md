@@ -24,3 +24,5 @@
 
     
   ### ✔ [Шифрование предложения](https://docs.google.com/document/d/1jwPRH5WwYC-Ku00ZFDsd6OFMMCmgiNcHfymXdsfpkmQ/edit?usp=sharing)
+
+  ### ✔ [Презентация по позитив технолоджи](https://docs.google.com/presentation/d/1n97jdCYcCIXg4v4UMTKj9t-fqJI0gE5d/edit?usp=sharing&ouid=107821245769219109805&rtpof=true&sd=true)
